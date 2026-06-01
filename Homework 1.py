@@ -1,0 +1,7 @@
+print("My daily routine.")
+print("I wake up in the morning at around 7am.")
+print("After that i brush my teeth and take a shower")
+print("Then I go to my school.")
+print("After that I come to my home and relax and watch T.V.")
+print("Then I have some classes at 7pm till 8pm.")
+print("After that I have my dinner at 8pm and then I sleep at around 9pm or 10pm")
